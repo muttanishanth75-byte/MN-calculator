@@ -12,4 +12,4 @@ Welcome to the official repository for the **Pixel Perfect** web project.
 - **Logic Backend:** Python (Logic practiced in `calculator.py`)
 
 ## 🎮 About the Creator
-I'm Nishanth, a 10th-grade student, athlete, and the creator behind the **Nexus Plays** YouTube channel.
+I'm Nishanth, a 10th-grade student, athlete, and the creator behind the **Pixel Perfect** YouTube channel.
